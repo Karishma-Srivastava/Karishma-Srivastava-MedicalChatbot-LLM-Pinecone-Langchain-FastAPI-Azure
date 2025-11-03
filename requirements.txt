@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+langchain
+openai
+pinecone-client
+python-dotenv
+requests
+tiktoken
+pydantic
+jinja2
+azure-ai-textanalytics

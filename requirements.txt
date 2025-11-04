@@ -9,3 +9,5 @@ tiktoken
 pydantic
 jinja2
 azure-ai-textanalytics
+
+-e .
